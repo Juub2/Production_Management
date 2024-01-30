@@ -20,7 +20,7 @@ public class Find {
 
 	
 	
-	
+	/*
 	
 	public static boolean checkId(String name, String phoneNum) {
 
@@ -41,5 +41,6 @@ public class Find {
 		return true;
 		
 	}
+	*/
 	
 }
