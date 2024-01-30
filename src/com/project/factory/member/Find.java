@@ -24,7 +24,7 @@ public class Find {
 	
 	public static boolean checkId(String name, String phoneNum) {
 
-//		if (id == null) {
+		if (id == null) {
 
 			return false;
 		}
@@ -34,7 +34,7 @@ public class Find {
 	
 	public static boolean checkPw(String id, String phoneNum) {
 		
-//		if (pw == null) {
+		if (pw == null) {
 			
 			return false;
 		}
